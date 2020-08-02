@@ -4,13 +4,16 @@ To run this you will need Ubuntu(16.18 and 19 version prefered).
 after downloading the folder, open terminal in that folder and run the following command. 
 
 chmod +x install-libraries.sh
+
 ./install-libraries.sh
+
 make all
 
 ./game
  
 
 Arrow keys are for movement
+
 upper and lower arrow keys act as acceleration and deacceleration keys respectively for the bomber man
 right and left keys are used to change/rotate the direction of the bomber man
 
